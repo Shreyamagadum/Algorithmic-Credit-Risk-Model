@@ -90,18 +90,6 @@ The dataset contains borrower-level financial and demographic information such a
 
 ---
 
-## 👨‍💻 Author
-
-- Shreyash Magadum
-
----
-
-## ⭐ Acknowledgment
-
-This project was developed as part of a machine learning assignment focused on credit risk modeling using ElasticNet, SMOTE, and ROC-AUC evaluation.
-
----
-
 ## 🚀 How to Run
 
 1. Clone the repository
