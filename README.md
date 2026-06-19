@@ -94,4 +94,4 @@ The dataset contains borrower-level financial and demographic information such a
 
 1. Clone the repository
 ```bash
-git clone <your-repo-link>
+https://github.com/Shreyamagadum/Algorithmic-Credit-Risk-Model
