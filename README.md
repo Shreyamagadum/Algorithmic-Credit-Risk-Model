@@ -119,10 +119,10 @@ https://github.com/Shreyamagadum/Algorithmic-Credit-Risk-Model
 
 ##📌 Future Improvements
 
-Hyperparameter tuning using GridSearchCV
-Feature importance analysis
-Deployment using Streamlit (UI)
-Integration with real-time loan application systems
+-Hyperparameter tuning using GridSearchCV
+-Feature importance analysis
+-Deployment using Streamlit (UI)
+-Integration with real-time loan application systems
 
 ---
 
