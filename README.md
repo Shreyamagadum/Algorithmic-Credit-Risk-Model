@@ -86,7 +86,19 @@ The dataset contains borrower-level financial and demographic information such a
 - Pandas, NumPy  
 - Scikit-learn  
 - Imbalanced-learn (SMOTE)  
-- Matplotlib, Seaborn  
+- Matplotlib, Seaborn
+
+---
+
+## 👨‍💻 Author
+
+- Shreyash Magadum
+
+---
+
+## ⭐ Acknowledgment
+
+This project was developed as part of a machine learning assignment focused on credit risk modeling using ElasticNet, SMOTE, and ROC-AUC evaluation.
 
 ---
 
@@ -95,3 +107,33 @@ The dataset contains borrower-level financial and demographic information such a
 1. Clone the repository
 ```bash
 https://github.com/Shreyamagadum/Algorithmic-Credit-Risk-Model
+```
+
+2. Open Jupyter Notebook
+    jupyter lab
+   
+3. Run all cells in:
+    credit_risk_model.ipynb
+
+---
+
+##📌 Future Improvements
+Hyperparameter tuning using GridSearchCV
+Feature importance analysis
+Deployment using Streamlit (UI)
+Integration with real-time loan application systems
+
+---
+
+
+## 👨‍💻 Author
+
+- Shreyash Magadum
+
+---
+
+## ⭐ Acknowledgment
+
+This project was developed as part of a machine learning assignment focused on credit risk modeling using ElasticNet, SMOTE, and ROC-AUC evaluation.
+---
+
