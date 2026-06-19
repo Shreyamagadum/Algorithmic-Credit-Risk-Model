@@ -118,6 +118,7 @@ https://github.com/Shreyamagadum/Algorithmic-Credit-Risk-Model
 ---
 
 ##📌 Future Improvements
+
 Hyperparameter tuning using GridSearchCV
 Feature importance analysis
 Deployment using Streamlit (UI)
@@ -133,7 +134,6 @@ Integration with real-time loan application systems
 ---
 
 ## ⭐ Acknowledgment
-
-This project was developed as part of a machine learning assignment focused on credit risk modeling using ElasticNet, SMOTE, and ROC-AUC evaluation.
+- This project was developed as part of a machine learning assignment focused on credit risk modeling using ElasticNet, SMOTE, and ROC-AUC evaluation.
 ---
 
