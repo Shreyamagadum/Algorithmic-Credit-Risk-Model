@@ -117,7 +117,7 @@ https://github.com/Shreyamagadum/Algorithmic-Credit-Risk-Model
 
 ## 👨‍💻 Author
 
-- Shreyash Magadum
+- Shreya Magadum
 
 ---
 
