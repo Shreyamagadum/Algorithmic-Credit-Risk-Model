@@ -105,7 +105,7 @@ https://github.com/Shreyamagadum/Algorithmic-Credit-Risk-Model
 
 ---
 
-##📌 Future Improvements
+## 📌 Future Improvements
 
  - Hyperparameter tuning using GridSearchCV
  - Feature importance analysis
