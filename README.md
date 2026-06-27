@@ -2,6 +2,9 @@
 
 ## 💳 Credit Risk Prediction using ElasticNet
 
+## 🚀 Live Demo:
+https://algorithmic-credit-risk-model-gcdi99mpn2vgobyc7ajhke.streamlit.app
+
 ## 📌 Project Overview
 This project focuses on building an **algorithmic credit risk model** to predict the probability of loan default for applicants applying for high-value loans.
 
