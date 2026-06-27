@@ -112,12 +112,15 @@ https://github.com/Shreyamagadum/Algorithmic-Credit-Risk-Model
 ### Dashboard
 <img width="1913" height="911" alt="Image" src="https://github.com/user-attachments/assets/16ee2ac2-e22c-42aa-9ed2-7af3bb1d00fc" />
 <br>
+
 ### Input fields
 <img width="1917" height="911" alt="Image" src="https://github.com/user-attachments/assets/60e085ad-e51a-400e-bd93-135f8c5b2f5f" />
 <br>
+
 ### Prediction
 <img width="1915" height="915" alt="Image" src="https://github.com/user-attachments/assets/8561fc31-2202-40b9-b12f-e091d71bed71" />
 <br>
+
 ### Application Summary
 <img width="1905" height="908" alt="Image" src="https://github.com/user-attachments/assets/52ab299c-bbaa-4ba0-8629-b07985b3ed57" />
 <br>
