@@ -108,8 +108,8 @@ https://github.com/Shreyamagadum/Algorithmic-Credit-Risk-Model
 
 ---
 ## Output
-https://github.com/Shreyamagadum/Algorithmic-Credit-Risk-Model/issues/1#issue-4758141079
----
+<img width="1913" height="911" alt="Image" src="https://github.com/user-attachments/assets/16ee2ac2-e22c-42aa-9ed2-7af3bb1d00fc" />
+
 ## 📌 Future Improvements
 
  - Hyperparameter tuning using GridSearchCV
