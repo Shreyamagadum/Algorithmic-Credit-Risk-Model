@@ -109,6 +109,8 @@ https://github.com/Shreyamagadum/Algorithmic-Credit-Risk-Model
 ---
 ## Output
 <img width="1913" height="911" alt="Image" src="https://github.com/user-attachments/assets/16ee2ac2-e22c-42aa-9ed2-7af3bb1d00fc" />
+<img width="1917" height="911" alt="Image" src="https://github.com/user-attachments/assets/60e085ad-e51a-400e-bd93-135f8c5b2f5f" />
+
 
 ## 📌 Future Improvements
 
