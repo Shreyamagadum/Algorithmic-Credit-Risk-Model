@@ -10,7 +10,6 @@ This project focuses on building an **algorithmic credit risk model** to predict
 
 The model uses **ElasticNet regularization** combined with robust preprocessing techniques such as outlier removal and SMOTE to handle class imbalance.
 
----
 
 ## 🎯 Objective
 To develop a machine learning model that can:
@@ -18,7 +17,6 @@ To develop a machine learning model that can:
 - Output a **probability of default**
 - Improve decision-making in credit risk assessment
 
----
 
 ## 📂 Dataset Description
 The dataset contains borrower-level financial and demographic information such as:
