@@ -32,7 +32,6 @@ The dataset contains borrower-level financial and demographic information such a
   - `0` → No Default  
   - `1` → Default  
 
----
 
 ## ⚙️ Workflow
 
@@ -61,7 +60,6 @@ The dataset contains borrower-level financial and demographic information such a
 - Evaluated performance using **ROC-AUC score**
 - Visualized model performance using ROC Curve
 
----
 
 ## 📈 Results
 
@@ -70,7 +68,6 @@ The dataset contains borrower-level financial and demographic information such a
 
 👉 The model demonstrates good predictive capability for distinguishing between defaulters and non-defaulters.
 
----
 
 ## 🧠 Key Learnings
 
@@ -79,7 +76,6 @@ The dataset contains borrower-level financial and demographic information such a
 - Outlier removal helps stabilize predictions
 - ROC-AUC is an effective metric for classification problems in finance
 
----
 
 ## 🛠️ Tech Stack
 
@@ -89,7 +85,6 @@ The dataset contains borrower-level financial and demographic information such a
 - Imbalanced-learn (SMOTE)  
 - Matplotlib, Seaborn
 
----
 
 ## 🚀 How to Run
 
@@ -104,7 +99,6 @@ https://github.com/Shreyamagadum/Algorithmic-Credit-Risk-Model
 3. Run all cells in:
     credit_risk_model.ipynb
 
----
 ## Output
 
 ### Dashboard
@@ -130,14 +124,11 @@ https://github.com/Shreyamagadum/Algorithmic-Credit-Risk-Model
  - Deployment using Streamlit (UI)
  - Integration with real-time loan application systems
 
----
-
 
 ## 👨‍💻 Author
 
 - Shreya Magadum
 
----
 
 ## ⭐ Acknowledgment
 - This project was developed as part of a machine learning assignment focused on credit risk modeling using ElasticNet, SMOTE, and ROC-AUC evaluation.
